@@ -43,7 +43,7 @@ For this part we will try to further optimize your memory allocation system’s 
 To make memory allocator efficient, implement the required functions of AVLTree.java and make your binary search trees balanced. We will only implement the functions that are needed to speed up the implementation (Insert, Delete, Find, getFirst, getNext, sanity).
 
 ## Usage
-make all
+'make all'
 
 To compile your .java files
 
