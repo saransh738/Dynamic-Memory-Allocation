@@ -42,9 +42,9 @@ For this part we will try to further optimize your memory allocation system’s 
 
 To make memory allocator efficient, implement the required functions of AVLTree.java and make your binary search trees balanced. We will only implement the functions that are needed to speed up the implementation (Insert, Delete, Find, getFirst, getNext, sanity).
 
-## Usage
+## Usage:
 
-## Using makefile
+### Using makefile
 
 `make all`
 
@@ -54,7 +54,7 @@ To compile your .java files
 
 To remove the generated .class files
 
-## Using run.sh
+### Using run.sh
 
 `run.sh {input_file} {output_file}`
 
@@ -64,7 +64,7 @@ Both arguments are optional, inputfile is the file containing the test cases and
 
 A res_gold.out has been added which can be used to compare your results against the standard results.
 
-## Format of test file
+### Format of test file
 
 number of test cases
 
