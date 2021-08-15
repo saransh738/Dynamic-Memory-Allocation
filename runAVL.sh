@@ -9,4 +9,4 @@ fi
 if [ $# -eq 2 ]; then
     java DriverAVL < "${1}" > "${2}"
 fi
-© 2021 GitHub, Inc.
+
